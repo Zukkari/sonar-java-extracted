@@ -1,0 +1,5 @@
+
+`squid:S1134U"DTake the required action to fix the issue indicated by this comment.(€˜ıˆıÿÿÿÿ
+squid:UselessImportCheck"TRemove this unnecessary import: same package classes are always implicitly imported.(ğ“Š8Êƒ³“ÿ-
+¬squid:S44495"ˆAnnotate the parameter with @javax.annotation.Nullable in constructor declaration, or make sure that null can not be passed as argument.(ÒÅÉÛøÿÿÿÿ8µ×¯.
+¬squid:S4449*"ˆAnnotate the parameter with @javax.annotation.Nullable in constructor declaration, or make sure that null can not be passed as argument.(ÒÅÉÛøÿÿÿÿ8µ×¯.
